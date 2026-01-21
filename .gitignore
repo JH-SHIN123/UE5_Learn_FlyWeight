@@ -1,0 +1,39 @@
+# === Unreal Engine 임시 및 빌드 결과물 ===
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+FileOpenOrder/
+.ignore
+
+# === Visual Studio 프로젝트 관련 ===
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.vcxproj
+*.filters
+*.user
+
+# === 컴파일 결과물 (C++) ===
+*.exe
+*.dll
+*.lib
+*.pdb
+*.exp
+*.obj
+*.ilk
+*.aps
+
+# === 에셋 및 외부 툴 관련 ===
+Content/ExternalDrivers/
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# === Mac용 (Xcode 사용 시) ===
+.DS_Store
+*.xcworkspace
