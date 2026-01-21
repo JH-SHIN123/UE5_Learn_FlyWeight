@@ -5,6 +5,6 @@
 
 FlyWeight 적용 대상은 Weapon
 
-![AssetManager 정보](readme.md image/AssetManager.png)
+![AssetManager 정보](/readme.md image/AssetManager.png)
 
-![DataAsset 정보](readme.md image/DataAsset.png)
+![DataAsset 정보](/readme.md image/DataAsset.png)
